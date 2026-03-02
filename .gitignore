@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# BenchmarkDotNet runtime artifacts
+BenchmarkDotNet.Artifacts/
+
+# .NET user-specific files
+*.user
+*.suo
+.vs/
+.vscode/
+*.DS_Store
+
+# Claude Code
+.claude/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+packages/
