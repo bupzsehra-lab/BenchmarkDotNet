@@ -1,4 +1,4 @@
 using BenchmarkDotNet.Running;
 using BenchmarkDotNet.Samples;
 
-BenchmarkRunner.Run<StringComparisonBenchmarks>();
+BenchmarkRunner.Run<StringConcatenationBenchmarks>();
